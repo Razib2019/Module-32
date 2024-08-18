@@ -1,6 +1,5 @@
 // Array like object
 function sum(a, b, c) {
-  arguments;
   const result = a + b + c;
   return result;
 }
